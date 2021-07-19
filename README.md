@@ -32,13 +32,13 @@ We have used all the available dataset in the Chef's Hat Player Club envinroment
 
 Types | Types | Types | Types | Types
 ------------ |------------ |------------ | ----------- | ----------- |
-	lil_abcd_|lilAbsol| lilAle| lilAna| lilArkady|
-         lilAuar| lilBlio1| lilBlio2| lilChu| lilDa48|
-         lilDana| lilDJ| lilDomi948|lilEle|lilFael|
-         lilGeo|lilIlzy|lilJba|lilLeandro|lilLena|
-         lilLordelo|lilMars|lilNathalia|lilNik|lilNilay|
-         lilRamsey|lilRaos|lilThecube|lilThuran|lilTisantana|
-         lilToran|lilWinne|lilYves|lilYves2
+lil_abcd_ | lilAbsol| lilAle| lilAna| lilArkady|
+lilAuar | lilBlio1| lilBlio2| lilChu| lilDa48|
+lilDana | lilDJ| lilDomi948|lilEle|lilFael|
+lilGeo | lilIlzy|lilJba|lilLeandro|lilLena|
+lilLordelo |lilMars|lilNathalia|lilNik|lilNilay|
+lilRamsey |lilRaos|lilThecube|lilThuran|lilTisantana|
+lilToran |lilWinne|lilYves|lilYves2
 
 We just concatenate all available dataset in only one new dataset.
 
