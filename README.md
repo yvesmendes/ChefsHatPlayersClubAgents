@@ -22,7 +22,7 @@ pip install .
 ```
 
 
-##Available Agents
+## Available Agents
 
 There are four different implementations of Agents, all of them is based on the Karma Chameleon Club
 
